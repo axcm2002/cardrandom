@@ -1,1 +1,41 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+    background-color: green;
+  }
+  
+  .card {
+    background: white;
+    width: 370px;
+    height: 500px;
+    margin: 20px auto;
+    border-radius: 15px;
+  }
+  
+  .palo {
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 80px;
+  }
+  
+  .numero {
+    font-size: 180px;
+    text-align: center;
+    height: 49%;
+    margin-top: 36.5px;
+    margin-bottom: 36.5px;
+  }
+  
+  .numero h1 {
+    height: 200px;
+  }
+  
+  .gominola {
+    font-size: 80px;
+    transform: rotate(180deg);
+    margin-left: 50px;
+    padding-left: 30px;
+    margin-top: auto;
+  }
+  
+  .gominola h1 {
+    margin-top: 35px;
+  }
